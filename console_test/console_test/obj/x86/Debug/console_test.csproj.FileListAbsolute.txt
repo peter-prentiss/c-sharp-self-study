@@ -1,0 +1,5 @@
+/Users/admin/Programming/c-sharp-self-study/console_test/console_test/bin/Debug/console_test.exe
+/Users/admin/Programming/c-sharp-self-study/console_test/console_test/bin/Debug/console_test.pdb
+/Users/admin/Programming/c-sharp-self-study/console_test/console_test/obj/x86/Debug/console_test.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/console_test/console_test/obj/x86/Debug/console_test.exe
+/Users/admin/Programming/c-sharp-self-study/console_test/console_test/obj/x86/Debug/console_test.pdb

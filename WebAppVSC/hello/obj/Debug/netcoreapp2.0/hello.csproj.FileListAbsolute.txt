@@ -1,0 +1,10 @@
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/bin/Debug/netcoreapp2.0/hello.deps.json
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/bin/Debug/netcoreapp2.0/hello.runtimeconfig.json
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/bin/Debug/netcoreapp2.0/hello.runtimeconfig.dev.json
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/bin/Debug/netcoreapp2.0/hello.dll
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/bin/Debug/netcoreapp2.0/hello.pdb
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/obj/Debug/netcoreapp2.0/hello.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/obj/Debug/netcoreapp2.0/hello.AssemblyInfoInputs.cache
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/obj/Debug/netcoreapp2.0/hello.AssemblyInfo.cs
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/obj/Debug/netcoreapp2.0/hello.dll
+/Users/admin/Programming/c-sharp-self-study/WebAppVSC/hello/obj/Debug/netcoreapp2.0/hello.pdb

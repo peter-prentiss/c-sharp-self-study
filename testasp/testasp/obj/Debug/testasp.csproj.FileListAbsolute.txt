@@ -1,0 +1,5 @@
+/Users/admin/Programming/c-sharp-self-study/testasp/testasp/bin/testasp.dll
+/Users/admin/Programming/c-sharp-self-study/testasp/testasp/bin/testasp.pdb
+/Users/admin/Programming/c-sharp-self-study/testasp/testasp/obj/Debug/testasp.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/testasp/testasp/obj/Debug/testasp.dll
+/Users/admin/Programming/c-sharp-self-study/testasp/testasp/obj/Debug/testasp.pdb
