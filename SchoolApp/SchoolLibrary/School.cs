@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Text;
+
 namespace SchoolLibrary
 {
     public class School
@@ -49,6 +51,20 @@ namespace SchoolLibrary
         {
             var result = (a + b + c) / 3;
             return result;
+        }
+
+        public override string ToString()
+        {
+            var sb = new StringBuilder();
+            sb.AppendLine(Name);
+            sb.AppendLine(Address);
+            sb.AppendLine(City);
+            sb.AppendLine(",");
+            sb.AppendLine(State);
+            sb.AppendLine(" ");
+            sb.AppendLine(Zip);
+
+            return sb.ToString();
         }
     }
 }
