@@ -1,10 +1,9 @@
 ﻿using System;
 namespace SchoolLibrary
 {
-    public class EmptyClass
+    public class Teacher
     {
-        public EmptyClass()
-        {
-        }
+        
+        public string Subject { get; set; }
     }
 }
