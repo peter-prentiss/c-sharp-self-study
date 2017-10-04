@@ -1,10 +1,9 @@
 ﻿using System;
 namespace SchoolLibrary
 {
-    public class Student
+    public class Student : Person
     {
-        public Student()
-        {
-        }
+        public enum GradeLevels { Freshman, Sophomore, Junior, Senior };
+        public GradeLevels GradeLevel { get; set;  }
     }
 }

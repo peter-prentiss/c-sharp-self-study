@@ -1,9 +1,8 @@
 ﻿using System;
 namespace SchoolLibrary
 {
-    public class Teacher
+    public class Teacher : Person
     {
-        
         public string Subject { get; set; }
     }
 }
