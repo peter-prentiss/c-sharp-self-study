@@ -1,10 +1,12 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Teacher.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ScienceExperiment.cs">
     <Files>
       <File FileName="School.cs" Line="65" Column="22" />
-      <File FileName="Teacher.cs" Line="6" Column="9" />
-      <File FileName="Student.cs" Line="1" Column="1" />
-      <File FileName="Person.cs" Line="1" Column="1" />
+      <File FileName="Teacher.cs" Line="10" Column="21" />
+      <File FileName="Student.cs" Line="20" Column="66" />
+      <File FileName="Person.cs" Line="22" Column="34" />
+      <File FileName="EnglishPaper.cs" Line="8" Column="32" />
+      <File FileName="ScienceExperiment.cs" Line="7" Column="42" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
