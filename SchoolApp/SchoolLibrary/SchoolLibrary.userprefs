@@ -1,5 +1,5 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="ScoreUtility.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExtensionMethods.cs">
     <Files>
       <File FileName="School.cs" Line="65" Column="22" />
       <File FileName="Teacher.cs" Line="10" Column="21" />
@@ -8,7 +8,8 @@
       <File FileName="EnglishPaper.cs" Line="8" Column="32" />
       <File FileName="ScienceExperiment.cs" Line="8" Column="43" />
       <File FileName="IScored.cs" Line="7" Column="41" />
-      <File FileName="ScoreUtility.cs" Line="6" Column="18" />
+      <File FileName="ScoreUtility.cs" Line="16" Column="36" />
+      <File FileName="ExtensionMethods.cs" Line="6" Column="24" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
