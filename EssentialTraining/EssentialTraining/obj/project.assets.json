@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/admin/Projects/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
+      "projectUniqueName": "/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
       "projectName": "EssentialTraining",
-      "projectPath": "/Users/admin/Projects/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
+      "projectPath": "/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/EssentialTraining.csproj",
       "packagesPath": "/Users/admin/.nuget/packages/",
-      "outputPath": "/Users/admin/Projects/EssentialTraining/EssentialTraining/obj",
+      "outputPath": "/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

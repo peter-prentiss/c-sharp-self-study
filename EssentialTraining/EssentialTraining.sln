@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTraining", "EssentialTraining\EssentialTraining.csproj", "{6091AADD-C513-4104-830B-46E70318E40E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EssentialTrainingTests", "EssentialTrainingTests\EssentialTrainingTests.csproj", "{B4027D5C-20A0-4997-AED5-B8415E5E395D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,5 +15,9 @@ Global
 		{6091AADD-C513-4104-830B-46E70318E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6091AADD-C513-4104-830B-46E70318E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6091AADD-C513-4104-830B-46E70318E40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4027D5C-20A0-4997-AED5-B8415E5E395D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4027D5C-20A0-4997-AED5-B8415E5E395D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4027D5C-20A0-4997-AED5-B8415E5E395D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4027D5C-20A0-4997-AED5-B8415E5E395D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
