@@ -1,0 +1,16 @@
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTrainingTests.deps.json
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTrainingTests.runtimeconfig.json
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTrainingTests.runtimeconfig.dev.json
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTrainingTests.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTrainingTests.pdb
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTraining.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/bin/Debug/netcoreapp2.0/EssentialTraining.pdb
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.csprojResolveAssemblyReference.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.AssemblyInfoInputs.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.AssemblyInfo.cs
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingTests/obj/Debug/netcoreapp2.0/EssentialTrainingTests.pdb

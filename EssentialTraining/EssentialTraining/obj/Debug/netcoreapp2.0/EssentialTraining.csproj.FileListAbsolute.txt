@@ -1,0 +1,9 @@
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/bin/Debug/netcoreapp2.0/EssentialTraining.deps.json
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/bin/Debug/netcoreapp2.0/EssentialTraining.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/bin/Debug/netcoreapp2.0/EssentialTraining.pdb
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.csprojResolveAssemblyReference.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.AssemblyInfoInputs.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.AssemblyInfo.cs
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.dll
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTraining/obj/Debug/netcoreapp2.0/EssentialTraining.pdb
