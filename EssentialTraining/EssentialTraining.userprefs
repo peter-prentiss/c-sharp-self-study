@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{B4027D5C-20A0-4997-AED5-B8415E5E395D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="EssentialTraining/SimpleArray.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EssentialTrainingTests/UnitTest1.cs">
     <Files>
       <File FileName="EssentialTraining/Class1.cs" Line="9" Column="26" />
-      <File FileName="EssentialTraining/SimpleArray.cs" Line="8" Column="10" />
-      <File FileName="EssentialTrainingTests/UnitTest1.cs" Line="14" Column="40" NotebookId="1" />
+      <File FileName="EssentialTraining/SimpleArray.cs" Line="15" Column="98" />
+      <File FileName="EssentialTraining/AwesomeSauce.cs" Line="12" Column="41" />
+      <File FileName="EssentialTrainingTests/UnitTest1.cs" Line="4" Column="17" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
