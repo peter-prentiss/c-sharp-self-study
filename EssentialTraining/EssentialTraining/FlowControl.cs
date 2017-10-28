@@ -3,6 +3,30 @@ namespace EssentialTraining
 {
     public class FlowControl
     {
+        public string GradeLetter(int score)
+        {
+            if (score > 90)
+            {
+                return "A";
+            }
+            else if (score > 79 && score <= 90)
+            {
+                return "B";
+            }
+            else if (score > 69 && score <= 79)
+            {
+                return "C";
+            }
+            else if (score > 59 && score <= 69)
+            {
+                return "D";
+            }
+            else
+            {
+                return "F";    
+            }
+        }
+
         public string PrimaryOrSecondaryCompound(string color)
         {
             if (color.ToLower() == "red" || color.ToLower() == "yellow" || color.ToLower() == "blue")
