@@ -3,6 +3,18 @@ namespace EssentialTraining
 {
     public class FlowControl
     {
+        public string IsYourNameNotBruce(string yourName)
+        {
+            if(yourName.ToLower() != "Bruce")
+            {
+                return "Can we call you Bruce for the simplicity?";
+            }
+            else
+            {
+                return "G'day Bruce!";
+            }
+        }
+
         public string GradeLetter(int score)
         {
             if (score > 90)
