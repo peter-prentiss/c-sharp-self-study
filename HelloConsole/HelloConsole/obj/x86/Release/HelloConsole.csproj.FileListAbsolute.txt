@@ -1,0 +1,3 @@
+/Users/admin/Programming/HelloConsole/HelloConsole/bin/Release/HelloConsole.exe
+/Users/admin/Programming/HelloConsole/HelloConsole/obj/x86/Release/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/HelloConsole/HelloConsole/obj/x86/Release/HelloConsole.exe

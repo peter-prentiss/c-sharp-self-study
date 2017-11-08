@@ -1,0 +1,5 @@
+/Users/admin/Programming/HelloConsole/HelloConsole/bin/Debug/HelloConsole.exe
+/Users/admin/Programming/HelloConsole/HelloConsole/bin/Debug/HelloConsole.pdb
+/Users/admin/Programming/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.exe
+/Users/admin/Programming/HelloConsole/HelloConsole/obj/x86/Debug/HelloConsole.pdb
