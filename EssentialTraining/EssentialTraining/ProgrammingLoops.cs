@@ -1,10 +1,28 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text;
 
 namespace EssentialTraining
 {
     public class ProgrammingLoops
     {
+        public string BreakAndContinue()
+        {
+            var sb = new StringBuilder();
+            var words = new List<string> { "Bread", "Milk", "Eggs", "Cheese", "Apples" };
+
+            foreach (var word in words)
+            {
+                if (word.StartsWith("M", StringComparison.CurrentCulture)) continue;
+
+                if (word.StartsWith("C", StringComparison.CurrentCulture)) break;
+
+                sb.AppendLine(word);
+            }
+
+            return sb.ToString();
+        }
+
         public int WhileLoop()
         {
             var sum = 0;

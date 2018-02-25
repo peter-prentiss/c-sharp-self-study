@@ -1,0 +1,5 @@
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingApp/bin/Debug/EssentialTrainingApp.exe
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingApp/bin/Debug/EssentialTrainingApp.pdb
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingApp/obj/Debug/EssentialTrainingApp.csproj.CoreCompileInputs.cache
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingApp/obj/Debug/EssentialTrainingApp.exe
+/Users/admin/Programming/c-sharp-self-study/EssentialTraining/EssentialTrainingApp/obj/Debug/EssentialTrainingApp.pdb
